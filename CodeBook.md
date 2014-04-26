@@ -15,7 +15,7 @@ The sensor signals (accelerometer and gyroscope) were pre-processed by applying 
 ### Analysis:
 The original data from Inertia Signals of test and train folders within zip file was used to calculated the preprocessed mean and standard deviations found in X_test and X_train of zip file.  The testing and training data was recombined, and for each activity done by each subject, the mean measurements are given.
 
-PartII: Description of variables
+Part II: Description of variables
 -------------------------
 Data contains the mean of the mean and standard deviation of following measurements where XYZ means the measurements are given in the X-, Y- and Z- directions:
  
@@ -44,7 +44,4 @@ For more information, and the raw data, please see: http://archive.ics.uci.edu/m
 Part III: Required Libraries
 -------------------------
 - reshape2
-
-Part IV:
--------------------------
 
