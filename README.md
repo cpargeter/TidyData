@@ -18,7 +18,7 @@ Part I: Overview
   * Determines mean for each subject for each activity
   * Writes the table
 
-Part II: Functions to process data - from Analysis_Function.R
+Part II: Functions to process data
 -------------------------
 1. TempDir:
   * Accepts url of data
